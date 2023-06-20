@@ -1,0 +1,14 @@
+{
+  "cssImports": {
+    "C:\\projects\\try-next-js\\src\\app\\layout.js": [
+      "C:\\projects\\try-next-js\\node_modules\\next\\font\\google\\target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src\\\\app\\\\layout.js\",\"variableName\":\"inter\"}",
+      "C:\\projects\\try-next-js\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\projects\\try-next-js\\src\\app\\(with-layout)\\page": [
+      "C:\\projects\\try-next-js\\src\\app\\globals.css",
+      "C:\\projects\\try-next-js\\node_modules\\next\\font\\google\\target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src\\\\app\\\\layout.js\",\"variableName\":\"inter\"}"
+    ]
+  }
+}
